@@ -1,0 +1,18 @@
+Código: 1
+Nome: João
+Endereço: Rua A
+Cidade: São Paulo
+Estado: São Paulo
+Complemento: Apto 123
+Telefone: 123456789
+Data de aniversario:01/01/1990
+Situação: Ativo
+Código: 2
+Nome: João
+Endereço: Rua A
+Cidade: São Paulo
+Estado: São Paulo
+Complemento: Apto 123
+Telefone: 123456789
+Data de aniversario:01/01/1990
+Situação: Ativo

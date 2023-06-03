@@ -1,0 +1,30 @@
+
+Chassi: 0BF6348
+Marca: Honda
+Modelo: CB500
+Cor: Vermelha
+Kilômetros rodados: 0.0
+KM/H: 150.0
+Ano de Fabricação: 2021
+Valor da moto: R$12000.0
+
+
+Chassi: 9708A61
+Marca: Honda
+Modelo: CB500
+Cor: Vermelha
+Kilômetros rodados: 0.0
+KM/H: 150.0
+Ano de Fabricação: 2021
+Valor da moto: R$12000.0
+
+
+Chassi: D3858A1
+Marca: Honda
+Modelo: CB500
+Cor: Vermelha
+Kilômetros rodados: 0.0
+KM/H: 150.0
+Ano de Fabricação: 2021
+Valor da moto: R$12000.0
+

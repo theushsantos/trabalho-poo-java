@@ -1,0 +1,10 @@
+Cadastro Moto:
+Chassi: 6EB3F92
+Marca: \a jb
+Modelo: ndoava
+Cor: anv
+Kilômetros rodados: 0.0
+KM/H: 123.0
+Ano de Fabricação: 1234
+Valor da moto: R$123.0
+
